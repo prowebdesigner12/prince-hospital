@@ -1,4 +1,5 @@
 
+
 import React from 'react';
 import type { NavLink, Award, Testimonial, Facility, FaqItem, TabbableListItem, AboutStat, HeroStat, Benefit, InfoCard, HowItWorksStep, Department, Service, SuperSpecialty, CarouselTestimonial } from './types';
 
@@ -180,25 +181,25 @@ export const HOW_IT_WORKS_STEPS: HowItWorksStep[] = [
         step: 1,
         title: 'Schedule An Appointment',
         description: 'Begin your journey to better health by scheduling a consultation with Prince Hospital. You can easily book your appointment by calling our friendly reception team or using our convenient online booking system. We offer flexible appointment times to accommodate your schedule, including evening and appointments for your convenience.',
-        image: 'https://images.unsplash.com/photo-1576091160550-2173dba9996a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+        image: 'https://images.unsplash.com/photo-sLabRVYuY2w?auto=format&fit=crop&w=1000&q=80?q=80&w=1974&auto=format&fit=crop&ixlib-rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
     },
     {
         step: 2,
         title: 'Consultation',
         description: 'During your consultation, you will meet with one of our experienced healthcare professionals who will take the time to listen to your concerns, review your medical history, and conduct a thorough examination to understand your health needs.',
-        image: 'https://images.unsplash.com/photo-1550831107-1553da8c8464?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+        image: 'https://images.unsplash.com/photo-sLabRVYuY2w?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
     },
     {
         step: 3,
         title: 'Personalized Treatment',
         description: 'Based on your consultation and any necessary diagnostic tests, we will develop a personalized treatment plan tailored to your specific needs and goals. We believe in collaborative care and will involve you in every decision.',
-        image: 'https://images.unsplash.com/photo-1579684385127-68b56d35b8d5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+        image: 'https://images.unsplash.com/photo-t__SZ4OHEOE?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
     },
     {
         step: 4,
         title: 'Ongoing Care',
         description: 'Our commitment to your health doesn’t end after your initial treatment. We provide ongoing care and support to help you maintain your well-being and prevent future health issues, ensuring a long and healthy life.',
-        image: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+        image: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2070&auto=format&fit=crop&ixlib-rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
     },
 ];
 
